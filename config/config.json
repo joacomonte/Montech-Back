@@ -1,29 +1,29 @@
 {
   "development": {
-    "username": "nts8y7398648zr066d0e",
-    "password": "pscale_pw_vtt7UMys4YboS6ZMQeIOVLwrvVbKtofHN9GsxlGUoT6",
+    "username": "joacomonte123",
+    "password": "montechpassword",
     "database": "montechdb",
-    "host": "us-east.connect.psdb.cloud",
-    "dialect": "mysql",
-    "dialectOptions": {"ssl":{"rejectUnauthorized":true}},
-    "define":{"timestamps":false}
+    "host": "85.10.205.173",
+    "port": 3306,
+    "dialect": "mysql"
   },
   "test": {
-    "username": "nts8y7398648zr066d0e",
-    "password": "pscale_pw_vtt7UMys4YboS6ZMQeIOVLwrvVbKtofHN9GsxlGUoT6",
+    "username": "joacomonte123",
+    "password": "montechpassword",
     "database": "montechdb",
-    "host": "us-east.connect.psdb.cloud",
-    "dialect": "mysql",
-    "dialectOptions": {"ssl":{"rejectUnauthorized":true}},
-    "define":{"timestamps":false}
+    "host": "85.10.205.173",
+    "port": 3306,
+    "dialect": "mysql"
   },
   "production": {
-    "username": "nts8y7398648zr066d0e",
-    "password": "pscale_pw_vtt7UMys4YboS6ZMQeIOVLwrvVbKtofHN9GsxlGUoT6",
+    "username": "joacomonte123",
+    "password": "montechpassword",
     "database": "montechdb",
-    "host": "us-east.connect.psdb.cloud",
-    "dialect": "mysql",
-    "dialectOptions": {"ssl":{"rejectUnauthorized":true}},
-    "define":{"timestamps":false}
+    "host": "85.10.205.173",
+    "port": 3306,
+    "dialect": "mysql"
   }
 }
+
+
+
