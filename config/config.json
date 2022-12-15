@@ -1,0 +1,25 @@
+{
+  "development": {
+    "username": "j67ashhqf3gl55hv00qt",
+    "password": "pscale_pw_CcgZunmK94j3M6cHO7mLCMvYruEiFNPJm5B2tQTndRN",
+    "database": "montechdb",
+    "host": "east.connect.psdb.cloud",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "j67ashhqf3gl55hv00qt",
+    "password": "pscale_pw_CcgZunmK94j3M6cHO7mLCMvYruEiFNPJm5B2tQTndRN",
+    "database": "montechdb",
+    "host": "east.connect.psdb.cloud",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "j67ashhqf3gl55hv00qt",
+    "password": "pscale_pw_CcgZunmK94j3M6cHO7mLCMvYruEiFNPJm5B2tQTndRN",
+    "database": "montechdb",
+    "host": "east.connect.psdb.cloud",
+    "dialect": "mysql"
+  }
+}
+
+
