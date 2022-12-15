@@ -4,22 +4,26 @@
     "password": "pscale_pw_vtt7UMys4YboS6ZMQeIOVLwrvVbKtofHN9GsxlGUoT6",
     "database": "montechdb",
     "host": "us-east.connect.psdb.cloud",
-    "dialect": "mysql"
+    "dialect": "mysql",
+    "dialectOptions": {"ssl":{"rejectUnauthorized":true}},
+    "define":{"timestamps":false}
   },
   "test": {
     "username": "nts8y7398648zr066d0e",
     "password": "pscale_pw_vtt7UMys4YboS6ZMQeIOVLwrvVbKtofHN9GsxlGUoT6",
     "database": "montechdb",
     "host": "us-east.connect.psdb.cloud",
-    "dialect": "mysql"
+    "dialect": "mysql",
+    "dialectOptions": {"ssl":{"rejectUnauthorized":true}},
+    "define":{"timestamps":false}
   },
   "production": {
     "username": "nts8y7398648zr066d0e",
     "password": "pscale_pw_vtt7UMys4YboS6ZMQeIOVLwrvVbKtofHN9GsxlGUoT6",
     "database": "montechdb",
     "host": "us-east.connect.psdb.cloud",
-    "dialect": "mysql"
+    "dialect": "mysql",
+    "dialectOptions": {"ssl":{"rejectUnauthorized":true}},
+    "define":{"timestamps":false}
   }
 }
-
-
